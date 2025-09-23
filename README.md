@@ -45,6 +45,7 @@
       Составление тестовой документации,
       Баг-репортинг
     - Дипломный проект
+      Презентация
       * [Веб-сайт с системой парсинга новостей презентация дипломного проекта](https://docs.google.com/presentation/d/1A3aVNThZxGa4fXHqYKANHGCVWmGagc84/edit?usp=drive_link&ouid=105031347449869429958&rtpof=true&sd=true)
       
 
