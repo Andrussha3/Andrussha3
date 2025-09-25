@@ -23,7 +23,7 @@
 - 🔧 Инструменты:
   - Jira, TestRail
   - Postman, Swagger
-  - Git, GitHub, Selenium WebDriver
+  - Git, GitHub
   - SQL (SQLite) базовые запросы
 
  - 💻 Языки программирования:
