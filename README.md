@@ -28,6 +28,7 @@ QA-инженер с профильным техническим образов�
 * 🤖 **Автоматизация тестирования (Python + Selenium):** [Скрипт для сброса прогресса на Stepik](https://github.com/Andrussha3/stepik-courses-reset_progress) — работа с веб-элементами, формами и сессиями.
 * 📝 **Тестирование веб-приложения:** [Чек-листы и тест-кейсы для henderson.ru](https://docs.google.com/spreadsheets/d/1z1c6tnLMEgzRCGO1ukNLIbdFZirbTknR/edit?gid=1417612499#gid=1417612499) — ручное тестирование крупного e-commerce проекта.
 * 🎓 **Дипломный проект:** [Веб-сайт с системой парсинга новостей (Презентация)](https://docs.google.com/presentation/d/1A3aVNThZxGa4fXHqYKANHGCVWmGagc84/edit?usp=drive_link&ouid=105031347449869429958&rtpof=true&sd=true) — full-stack разработка на WordPress с применением Python, C# и SQL.
+* 📱 **Тестирование мобильного приложения (гибридный подход):** [ссылка на репозиторий](https://github.com/Andrussha3/mobile_testing_hybrid) — полный цикл тестирования, включающий ручную проверку, составление тестовой документации (план автоматизации, тест-кейсы, чек-листы, баг-репорты) и разработку автоматизированных UI-тестов на Kotlin + Espresso с Allure-отчетами
 
 ## 🎓 Образование
 
